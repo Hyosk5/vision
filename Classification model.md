@@ -140,9 +140,9 @@
     - 모델 성능 개발
     - Pre-trained model 사용
 - 학습방법
-![Alt text](/md_images/image-30.png)
     1. 전체 모델 학습
     2. 일부 convolutional layer의 weight는 업데이트 하지 않고 학습
     3. 전체 convolutional layer의 weight는 업데이트 하지 않고 fully connected layer(classifier 부분)만 학습
+![Alt text](/md_images/image-30.png)
 - 데이터에 따른 학습 방법 선택
 ![Alt text](/md_images/image-31.png)
